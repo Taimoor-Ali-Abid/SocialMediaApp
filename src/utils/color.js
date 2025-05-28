@@ -1,0 +1,25 @@
+export const colors = {
+  primary: '#26A69A',
+  primaryDark: '#00897B',
+  primaryLight: '#80CBC4',
+  secondary: '#FF5252',
+  secondaryDark: '#D32F2F',
+  surface: '#FFFFFF',
+  error: '#B00020',
+  onPrimary: '#FFFFFF',
+  onSecondary: '#FFFFFF',
+  onBackground: '#000000',
+  onSurface: '#1D3B38',
+  onError: '#FFFFFF',
+  textPrimary: '#FFFFFF',
+  textSecondary: '#FFFFFF',
+  divider: '#D0E6E3',
+  disabled: '#B3C9C7',
+  placeholder: '#7FA3A0',
+
+  gradient: {
+    colors: ['rgb(33,35,34)', 'rgb(33,63,60)'],
+    start: {x: 2, y: 1},
+    end: {x: 0, y: 1},
+  },
+};
